@@ -1,5 +1,5 @@
 # dailyDoesIt-Tracker
-This is a simple to-do list app built with Vue.js, HTML, CSS, and JavaScript. The app allows users to keep track of tasks they need to complete by organizing them into two categories: work and home. 
+This is a to-do list app, built with Vue.js. The app allows users to keep track of tasks they need to complete by organizing them into two categories: work and home. 
 The app also has a tracking feature that allows users to see the number of overall/completed tasks in each category.
 
 ## Adding a Task
