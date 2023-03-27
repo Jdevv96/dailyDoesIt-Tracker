@@ -18,5 +18,6 @@ To mark a task as completed, simply click on the checkbox next to the task name.
 3. Run the app locally using npm run serve.
 4. Open your browser and go to http://localhost:{port_numer} to see the app running.
 
+![Demo usage of app.](dailytracker.gif)
 
 ** This app was created for educational purposes and was inspired by various Todo list apps available online. **
