@@ -20,4 +20,3 @@ To mark a task as completed, simply click on the checkbox next to the task name.
 
 ![Demo usage of app.](dailytracker.gif)
 
-** This app was created for educational purposes and was inspired by various Todo list apps available online. **
