@@ -12,7 +12,7 @@ The app keeps track of the number of tasks completed for each category. The prog
 To mark a task as completed, simply click on the checkbox next to the task name. The task will be marked as completed.
 
 ## Development
-### If you want to develop the app further or run it locally, you can follow these steps:
+### Feel free to run this locally by following these steps:
 1. Clone the repository to your local machine.
 2. Install the necessary dependencies using npm install.
 3. Run the app locally using npm run serve.
